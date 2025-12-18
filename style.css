@@ -6,3 +6,20 @@ body{
 div{
     margin-bottom: 20px;
 }
+
+p {
+    color: #eee;
+}
+
+.title {
+    color: #eee;
+}
+
+html {
+    background-color: #292929;
+    background: linear-gradient(to bottom, black, #292929);
+    background-repeat: no-repeat;
+    font-family: 'Roboto Mono';
+    height: 100%;
+    width: 100%;
+}
